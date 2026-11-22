@@ -40,6 +40,6 @@ Aplicar na prática os conceitos estudados em Algoritmos e Estruturas de Dados, 
 
 Desenvolvedores
 
-Desenvolvido por Thalles Ryan
+Desenvolvido por Thalles Ryan de Camargo Santos e Osvaldo da Silva Nascimento
 
 Projeto acadêmico de Engenharia de Software.
