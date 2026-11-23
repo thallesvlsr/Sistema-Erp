@@ -527,8 +527,9 @@ if __name__ == "__main__":
 
 
 # Declaração de autoria
-# Autores: Thalles Ryan
+# Autores: Thalles Ryan de Camargo Santos e Osvaldo da Silva Nascimento
 # Declaro que este código foi desenvolvido por mim, com base no meu próprio
 # entendimento e esforço. Não houve plágio ou cópia integral de terceiros.
 # Ferramentas de IA, quando utilizadas, foram apenas como apoio ao aprendizado
+
 # e não para a geração integral deste código.
